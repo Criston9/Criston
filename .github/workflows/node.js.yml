@@ -1,5 +1,5 @@
 name: CI
-
+#текст
 on:
   push:
     branches: [ "main" ] 
