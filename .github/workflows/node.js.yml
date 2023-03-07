@@ -21,7 +21,7 @@ steps:
 
 #	Actions от github: проверяет репозиторий, гит и т.д.
 
--	uses: actions/checkout@v3
+- uses: actions/checkout@v3
 
 #	Устанавливаем все необходимее зависимости и запускаем тесты node
 
