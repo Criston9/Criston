@@ -75,7 +75,7 @@ function reset() {
     }
     
     let flag = 1;
-    function setValueQ {
+    function setValue() {
          if (flag == 1) {
             this.value = "X"; 
             this.disabled = true;
@@ -85,5 +85,5 @@ function reset() {
             this.disabled = true;
             flag = 1;
         }
-    
+    }
     }
