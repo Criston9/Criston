@@ -36,7 +36,7 @@ if (bl.toLowerCase == 'x' && b2.toLowerCase() == 'x' && b3.toLowerCase() == 'x')
     reset();
 }
 
-if (bl.toLowerCaseQ == 'o' && b2.toLowerCase() == 'o' && b3.toLowerCase() == ’o') { 
+if (bl.toLowerCaseQ == 'o' && b2.toLowerCase() == 'o' && b3.toLowerCase() == 'o') { 
     window.alert('You are a winner'); 
     reset();
 } else if (b4.toLowerCase() == 'o' && b5.toLowerCase() == 'o' && b6.toLowerCase() == 'o') { 
