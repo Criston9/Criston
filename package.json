@@ -1,9 +1,0 @@
-{
-  "type": "module",
-  "main": "./js/main.js",
-  "scripts" : 
-   { 
-    "build": "node ./js/main.js"}
-    "test": "node ./test/pow_test.js"
-   }
-}
